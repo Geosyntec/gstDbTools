@@ -1,4 +1,4 @@
-Package: gst.sbtemplate
+Package: gstDbTools
 Title: This package helps to simplify working with MS Access databases in R
 Version: 0.0.0.9000
 Authors@R: 
